@@ -1,1 +1,2 @@
-file_list.txt
+#Log files
+*.log
